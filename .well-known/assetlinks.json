@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.ecolearcenciel.app",
+    "sha256_cert_fingerprints": [
+      "97:18:0A:7A:88:14:93:47:FE:1B:6F:69:9C:13:E5:34:E3:BA:22:31:05:12:CF:5B:72:05:E4:24:88:8B:C6:2A"
+    ]
+  }
+}]
